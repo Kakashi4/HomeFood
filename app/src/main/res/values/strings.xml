@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HomeFood</string>
+
+    <!-- Facebook application ID and custom URL scheme (app ID prefixed by 'fb'). -->
+    <string name="facebook_application_id" translatable="false">152266599450205</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb152266599450205</string>
+    <string-array name="size_options">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+</resources>

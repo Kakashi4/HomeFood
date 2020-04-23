@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677094128866",
+    "firebase_url": "https://homefood-af53c.firebaseio.com",
+    "project_id": "homefood-af53c",
+    "storage_bucket": "homefood-af53c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677094128866:android:75373cdd232282d09bf2bb",
+        "android_client_info": {
+          "package_name": "com.tejven.homefood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677094128866-qs0ngadgilc5d43c1t5fd08r2fs4qo7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb0iEbALARPBPuPmU7S4Cy7_I8WnUQ7p0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677094128866-qs0ngadgilc5d43c1t5fd08r2fs4qo7m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
